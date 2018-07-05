@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="57692" started-at="2018-07-04T13:10:47Z" finished-at="2018-07-04T13:11:45Z">
+  <suite name="Default suite" duration-ms="61774" started-at="2018-07-05T13:46:27Z" finished-at="2018-07-05T13:47:29Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="57692" started-at="2018-07-04T13:10:47Z" finished-at="2018-07-04T13:11:45Z">
+    <test name="Default test" duration-ms="61774" started-at="2018-07-05T13:46:27Z" finished-at="2018-07-05T13:47:29Z">
       <class name="Test.ToyTestCaseForGlobalNavigation">
-        <test-method status="PASS" signature="setup()[pri:0, instance:Test.ToyTestCaseForGlobalNavigation@5b275dab]" name="setup" is-config="true" duration-ms="20986" started-at="2018-07-04T18:40:47Z" finished-at="2018-07-04T18:41:08Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Test.ToyTestCaseForGlobalNavigation@4671e53b]" name="setup" is-config="true" duration-ms="24733" started-at="2018-07-05T19:16:27Z" finished-at="2018-07-05T19:16:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="zipCodeFetaures_15055()[pri:1, instance:Test.ToyTestCaseForGlobalNavigation@5b275dab]" name="zipCodeFetaures_15055" duration-ms="22721" started-at="2018-07-04T18:41:09Z" finished-at="2018-07-04T18:41:31Z">
+        <test-method status="PASS" signature="zipCodeFetaures_15055()[pri:1, instance:Test.ToyTestCaseForGlobalNavigation@4671e53b]" name="zipCodeFetaures_15055" duration-ms="22578" started-at="2018-07-05T19:16:52Z" finished-at="2018-07-05T19:17:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- zipCodeFetaures_15055 -->
-        <test-method status="PASS" signature="verifyClickFunctionalityOfCertifiedUsedVehicles()[pri:2, instance:Test.ToyTestCaseForGlobalNavigation@5b275dab]" name="verifyClickFunctionalityOfCertifiedUsedVehicles" duration-ms="1275" started-at="2018-07-04T18:41:31Z" finished-at="2018-07-04T18:41:33Z">
+        <test-method status="PASS" signature="verifyClickFunctionalityOfCertifiedUsedVehicles()[pri:2, instance:Test.ToyTestCaseForGlobalNavigation@4671e53b]" name="verifyClickFunctionalityOfCertifiedUsedVehicles" duration-ms="1529" started-at="2018-07-05T19:17:15Z" finished-at="2018-07-05T19:17:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyClickFunctionalityOfCertifiedUsedVehicles -->
-        <test-method status="PASS" signature="close()[pri:0, instance:Test.ToyTestCaseForGlobalNavigation@5b275dab]" name="close" is-config="true" duration-ms="12565" started-at="2018-07-04T18:41:33Z" finished-at="2018-07-04T18:41:45Z">
+        <test-method status="PASS" signature="close()[pri:0, instance:Test.ToyTestCaseForGlobalNavigation@4671e53b]" name="close" is-config="true" duration-ms="12776" started-at="2018-07-05T19:17:16Z" finished-at="2018-07-05T19:17:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
